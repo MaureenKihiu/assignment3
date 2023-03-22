@@ -1,0 +1,30 @@
+.heading {
+  white-space: nowrap;
+  position: absolute;
+  top: 190px;
+  left: 16px;
+  transform: rotate(270deg);
+  color: bisque;
+}
+.h4{
+  padding; 0 10px 10px 10px;
+  margin:10px 10px 10px 220px;
+  width: 300px;
+  background-color:black ;
+  color: blanchedalmond;
+}
+.edd{
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.container{
+  background-image: url("images/savanna.jpeg");
+  margin-bottom: 10%;
+  fade:30;
+}
+.h8{
+  padding: 0 10px 10px 10px;
+}
+body{
+  background-color: black;
+}
